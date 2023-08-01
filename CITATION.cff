@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Barati"
+  given-names: "Hojjat"
+  orcid: "https://orcid.org/0000-0002-7207-6659"
+- family-names: "Yazici"
+  given-names: "Anil"
+  orcid: "https://orcid.org/0000-0001-9613-0464"
+- family-names: "Almotahari"
+  given-names: "Amir-Masoud"
+
+title: "A Graph Neural Networks Model to Generate Transportation Test Networks"
+version: 0.1.0
+date-released: 2023-07-31
+url: "https://github.com/SBU-A2B/GNN-Model-for-Graph-Generation.git"
